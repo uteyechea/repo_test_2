@@ -1,1 +1,3 @@
-# repo_test_2
+# My first repo
+
+## Just testing how to git
